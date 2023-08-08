@@ -1,12 +1,46 @@
 {
   "posts": [
+  {
+  "title": "Completed a Burger Webpage",
+  "date": "8th August 2023",
+  "sections": [
+  {
+  "point": "Deciding on the Focus",
+  "content": "This morning, I engaged in a goal-setting session and made the deliberate choice to invest my time and effort in crafting webpages that epitomize beauty and emphasize the essence of user experience (UX) and user interface (UI). I have distilled my webpage concepts into three distinct categories: \\n\\n1. A personal portfolio website, \\n2. A website for a burger-centric business, \\n3. A website for a fashion brand.\\n\\nUpon the completion of these three projects, I plan to venture into the realms of C++, Java, and Python. I intend to create engaging games, develop useful backend software, and immerse myself in the intricate world of hacking culture."
+  },
+  {
+  "point": "Today's Achievements",
+  "content": "Today, I successfully constructed the front page of a captivating burger-themed website.",
+  "video": "Videos/BurgerWebpage.mov"
+},
+  {
+  "point": "Source of Inspiration",
+  "content": "I derived inspiration from diverse sources, including this webpage: (https://5scontent.com/homepage/) which provided me with insights into creative fading techniques. Additionally, the Mos Burger webpage (https://www.mosburger.com.sg/) influenced the elegant arrangement of food items and text that I incorporated into my project."
+  },
+  {
+  "point": "Website Construction Process",
+  "content": "Navigating the nuances of applying fade effects, tweaking opacity, and managing timing became manageable once I revisited the code that ChatGPT had previously provided. This review enabled me to comprehend the specific functions associated with each webpage element. I encountered a challenge while aligning the containers at the center of the page. Whenever I increased the container width, the right side expanded, causing the container to tilt to the right. I realized that I needed to apply a margin-left attribute to the container's CSS class. This experience also underscored the importance of understanding the precedence of CSS styles. Integrating additional effects into pre-existing code created by others led to overlapping styles, necessitating meticulous sorting. Through a line-by-line examination, I resolved these issues and deepened my understanding of the code's significance.",
+  "image": "Images/containerstyle.png" 
+
+  },
+  {
+  "point": "Reflection",
+  "content": "Designing a captivating website demands substantial dedication and time investment. Every pixel warrants attention, and meticulous attention to detail is crucial. I approach the upcoming days with a blend of enthusiasm and apprehension, realizing that the journey ahead resembles a bottomless pit of boundless enhancements."
+  }
+  ]
+  },
+  
+  
+  
+  
+
     {
       "title": "Embarking on My Journey as a Software Engineer",
       "date": "7th August 2023",
       "sections": [
         {
           "point": "New Beginnings and Aspirations",
-          "content": "It was the 7th of August, 2023, a day that marked the beginning of my dedicated journey towards becoming a skilled software engineer. My programming journey commenced back in 2019, with tutorials on Python and JavaScript. Fast forward to 2021, I enrolled in a university course on Python fundamentals and data analytics, which provided me a solid grasp of object-oriented programming. Additionally, I recently completed NandtoTetris Part 1, delving into the intricate workings of computers. This course, undertaken by NTU students in their first year, proved to be one of the most challenging experiences I've encountered. In the realm of design, I also ventured into Google's UX design certification, courtesy of a free Coursera account from my school. While insightful, I couldn't help but notice the contrasting difficulty level between technological and design courses. Designers, I dare say, seem to have it easier.\n\nNow, after a year-long hiatus and equipped with a bachelor's degree in accounting, I've made the resolute decision to embrace this journey wholeheartedly."
+          "content": "It was the 7th of August, 2023, a day that marked the beginning of my dedicated journey towards becoming a skilled software engineer. My programming journey commenced back in 2019, with tutorials on Python and JavaScript. Fast forward to 2021, I enrolled in a university course on Python fundamentals and data analytics, which provided me a solid grasp of object-oriented programming. Additionally, I recently completed NandtoTetris Part 1, delving into the intricate workings of computers. This course, undertaken by NTU students in their first year, proved to be one of the most challenging experiences I've encountered. In the realm of design, I also ventured into Google's UX design certification, courtesy of a free Coursera account from my school. While insightful, I couldn't help but notice the contrasting difficulty level between technological and design courses. Designers, I dare say, seem to have it easier. Now, after a year-long hiatus and equipped with a bachelor's degree in accounting, I've made the resolute decision to embrace this journey wholeheartedly."
         },
         {
           "point": "Aiming High: Future Goals",
@@ -21,15 +55,7 @@
           "content": "Today, I delved into the guidelines tailored for NUS CS freshmen once again. The insights gained from this activity provided a fresh wave of motivation and a deeper understanding of what defines a hacker. I felt an invigorating surge of interest, reinforcing my belief that I possess the attributes required to excel as a remarkable programmer. My endeavors also encompassed laying the foundational framework for this blog, leveraging codes sourced from ChatGPT. Having already acquired a sound grasp of HTML and CSS, I'm presently engrossed in the realm of JavaScript. As time unfolds, my plan entails enriching this blog with an array of progressive features."
         }
       ]
-    },
-    {
-      "title": "Exploring Another Dimension",
-      "sections": [
-        {
-          "point": "",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
-        }
-      ]
     }
+    
   ]
 }
