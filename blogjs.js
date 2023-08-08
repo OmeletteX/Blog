@@ -1,17 +1,15 @@
 const blogContentDiv = document.getElementById("blog-content");
-const currentDateAndTime = document.getElementById("current-date-time"); // Get the element for displaying date and time
+const currentDateAndTime = document.getElementById("current-date-time");
 
-// Function to fetch and display blog content
 async function loadBlogContent() {
   try {
-    const response = await fetch("./blog-content.json"); // Relative path here
+    const response = await fetch("./blog-content.json");
     if (!response.ok) {
       throw new Error("Network response was not ok");
     }
 
     const data = await response.json();
 
-    // Display current date and time
     const currentDateTime = new Date();
     currentDateAndTime.textContent = `${currentDateTime.toLocaleString()}`;
 
@@ -34,10 +32,30 @@ async function loadBlogContent() {
         pointHeading.textContent = section.point;
 
         const sectionPara = document.createElement("p");
-        sectionPara.textContent = section.content;
+        sectionPara.innerHTML = section.content.replace(/\\n/g, '<br>'); // Replacing \\n with <br> tags
 
+        // Append point heading and section content first
         postDiv.appendChild(pointHeading);
         postDiv.appendChild(sectionPara);
+
+        // Append image if it exists
+        if (section.image) {
+          const sectionImage = document.createElement("img");
+          sectionImage.src = section.image;
+          sectionImage.alt = "Image";
+          sectionImage.style.marginBottom = "20px"; // Adjust the value as needed
+          postDiv.appendChild(sectionImage);
+        }
+
+        // Append video if it exists
+        if (section.video) {
+          const sectionVideo = document.createElement("video");
+          sectionVideo.src = section.video;
+          sectionVideo.controls = true;
+          sectionVideo.style.maxWidth = "25%";
+          sectionVideo.style.marginBottom = "20px"; // Adjust the value as needed
+          postDiv.appendChild(sectionVideo);
+        }
       });
 
       blogContentDiv.appendChild(postDiv);
