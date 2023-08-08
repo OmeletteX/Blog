@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "title": "First day of my software engineer journey",
+      "date": "7 August 2023",
+      "sections": [
+        {
+          "point": "New Blog and New Goals",
+          "content": "7th August 2023, the day I put everything aside and start on my journey to become a software engineer. I started learning programming from 2019, doing tutorials on Python, JavaScript. Then in 2021, I took a university course on Python fundamentals and Python for data analytics which brings me up to understanding object-oriented programming.. Also recently I completed NandtoTetris P1 as I am curious on how a computer was made. Probably one of the toughest course I have ever seen, and NTU students have to go through it in their year 1. Also, I  went on to finish the first couse of Google UX design cert as my school gave me a free cousera account. Babys work compared to any technological courses out there. Designers got it easy i have to say. \n\n Alas, after a year break, graduating from university with a bachelor in accounting, I decided it is time to finally take this seriously."
+        },
+        {
+          "point": "Goals to hit (to be added)",
+          "content": "Today, I read through the guidelines for NUS CS freshmen. It motivated me a lot and provided me with more insight into what a hacker is. I also stimulated my interest, and I think I have what it takes to be a great programmer. I also started building the backbone of this blog, using codes from ChatGPT. I already have an idea of how HTML and CSS work. Now I am learning JavaScript, and I will be adding more features to this blog post as time goes by."
+        },
+        {
+          "point": "Current Schedule",
+          "content": "I have yet to decide on the short-term goals; however, the current schedule that I have decided on is 8-12 in the morning, 2-6 in the afternoon, and 9-11 in the evening. This should provide me with a minimum of 10 hours a day tinkering with the computer."
+        },
+        {
+          "point": "What I Have Done Today?",
+          "content": "Today, I read through the guidelines for NUS CS freshmen. It motivated me a lot and provided me with more insight into what a hacker is. I also stimulated my interest, and I think I have what it takes to be a great programmer. I also started building the backbone of this blog, using codes from ChatGPT. I already have an idea of how HTML and CSS work. Now I am learning JavaScript, and I will be adding more features to this blog post as time goes by."
+        }
+      ]
+    },
+    {
+      "title": "Another Blog Post",
+      "sections": [
+        {
+          "point": "",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+        }
+      ]
+    }
+  ]
+}
