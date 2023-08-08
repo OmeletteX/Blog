@@ -1,29 +1,29 @@
 {
   "posts": [
     {
-      "title": "First day of my software engineer journey",
-      "date": "7 August 2023",
+      "title": "Embarking on My Journey as a Software Engineer",
+      "date": "7th August 2023",
       "sections": [
         {
-          "point": "New Blog and New Goals",
-          "content": "7th August 2023, the day I put everything aside and start on my journey to become a software engineer. I started learning programming from 2019, doing tutorials on Python, JavaScript. Then in 2021, I took a university course on Python fundamentals and Python for data analytics which brings me up to understanding object-oriented programming.. Also recently I completed NandtoTetris P1 as I am curious on how a computer was made. Probably one of the toughest course I have ever seen, and NTU students have to go through it in their year 1. Also, I  went on to finish the first couse of Google UX design cert as my school gave me a free cousera account. Babys work compared to any technological courses out there. Designers got it easy i have to say. \n\n Alas, after a year break, graduating from university with a bachelor in accounting, I decided it is time to finally take this seriously."
+          "point": "New Beginnings and Aspirations",
+          "content": "It was the 7th of August, 2023, a day that marked the beginning of my dedicated journey towards becoming a skilled software engineer. My programming journey commenced back in 2019, with tutorials on Python and JavaScript. Fast forward to 2021, I enrolled in a university course on Python fundamentals and data analytics, which provided me a solid grasp of object-oriented programming. Additionally, I recently completed NandtoTetris Part 1, delving into the intricate workings of computers. This course, undertaken by NTU students in their first year, proved to be one of the most challenging experiences I've encountered. In the realm of design, I also ventured into Google's UX design certification, courtesy of a free Coursera account from my school. While insightful, I couldn't help but notice the contrasting difficulty level between technological and design courses. Designers, I dare say, seem to have it easier.\n\nNow, after a year-long hiatus and equipped with a bachelor's degree in accounting, I've made the resolute decision to embrace this journey wholeheartedly."
         },
         {
-          "point": "Goals to hit (to be added)",
-          "content": "Today, I read through the guidelines for NUS CS freshmen. It motivated me a lot and provided me with more insight into what a hacker is. I also stimulated my interest, and I think I have what it takes to be a great programmer. I also started building the backbone of this blog, using codes from ChatGPT. I already have an idea of how HTML and CSS work. Now I am learning JavaScript, and I will be adding more features to this blog post as time goes by."
+          "point": "Aiming High: Future Goals",
+          "content": "Today, I immersed myself in the guidelines for NUS CS freshmen, deriving a significant dose of motivation and a deeper understanding of the essence of hacking. This process further ignited my interest, convincing me that I possess the potential to excel as a proficient programmer. With the guidance of codes from ChatGPT, I've laid the initial groundwork for this blog. Having already grasped the fundamentals of HTML and CSS, I'm now venturing into JavaScript, with plans to progressively enhance this blog's features over time."
         },
         {
-          "point": "Current Schedule",
-          "content": "I have yet to decide on the short-term goals; however, the current schedule that I have decided on is 8-12 in the morning, 2-6 in the afternoon, and 9-11 in the evening. This should provide me with a minimum of 10 hours a day tinkering with the computer."
+          "point": "Time Management: My Current Schedule",
+          "content": "While specific short-term goals are yet to be finalized, my current daily schedule is already in place. Mornings from 8 to 12, afternoons from 2 to 6, and evenings from 9 to 11 are designated for intensive engagement with my computer. This rigorous regimen guarantees a minimum of 10 hours each day devoted to coding and learning."
         },
         {
-          "point": "What I Have Done Today?",
-          "content": "Today, I read through the guidelines for NUS CS freshmen. It motivated me a lot and provided me with more insight into what a hacker is. I also stimulated my interest, and I think I have what it takes to be a great programmer. I also started building the backbone of this blog, using codes from ChatGPT. I already have an idea of how HTML and CSS work. Now I am learning JavaScript, and I will be adding more features to this blog post as time goes by."
+          "point": "Today's Accomplishments",
+          "content": "Today, I delved into the guidelines tailored for NUS CS freshmen once again. The insights gained from this activity provided a fresh wave of motivation and a deeper understanding of what defines a hacker. I felt an invigorating surge of interest, reinforcing my belief that I possess the attributes required to excel as a remarkable programmer. My endeavors also encompassed laying the foundational framework for this blog, leveraging codes sourced from ChatGPT. Having already acquired a sound grasp of HTML and CSS, I'm presently engrossed in the realm of JavaScript. As time unfolds, my plan entails enriching this blog with an array of progressive features."
         }
       ]
     },
     {
-      "title": "Another Blog Post",
+      "title": "Exploring Another Dimension",
       "sections": [
         {
           "point": "",
