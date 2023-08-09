@@ -43,6 +43,9 @@ async function loadBlogContent() {
           const sectionImage = document.createElement("img");
           sectionImage.src = section.image;
           sectionImage.alt = "Image";
+          if (sectionImage.width > 600) {
+            sectionImage.style.width = "80%"; // Adjust the width percentage as needed
+          }
           sectionImage.style.marginBottom = "20px"; // Adjust the value as needed
           postDiv.appendChild(sectionImage);
         }
