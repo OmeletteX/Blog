@@ -1,39 +1,70 @@
 {
   "posts": [
-  {
-  "title": "Completed a Burger Webpage",
-  "date": "8th August 2023",
-  "sections": [
-  {
-  "point": "Deciding on the Focus",
-  "content": "This morning, I engaged in a goal-setting session and made the deliberate choice to invest my time and effort in crafting webpages that epitomize beauty and emphasize the essence of user experience (UX) and user interface (UI). I have decided to do 3  webpages: \\n\\n1. A personal portfolio website, \\n2. A website for a burger-centric business, \\n3. A website for a fashion brand.\\n\\nUpon the completion of these three projects, I plan to venture into the realms of C++, Java, and Python. I intend to create engaging games, develop useful backend software, and immerse myself in the intricate world of hacking culture."
-  },
-  {
-  "point": "Today's Accomplisments",
-  "content": "Today, I successfully constructed the front page of a burger-themed website.",
-  "video": "Videos/BurgerWebpage.mov"
-},
-  {
-  "point": "Source of Inspiration",
-  "content": "I derived inspiration from diverse sources, including this webpage: (https://5scontent.com/homepage/) which provided me with insights into creative fading techniques. Additionally, the Mos Burger webpage (https://www.mosburger.com.sg/) influenced the elegant arrangement of food items and text that I incorporated into my project."
-  },
-  {
-  "point": "Website Construction Process",
-  "content": "Navigating the nuances of applying fade effects, tweaking opacity, and managing timing became manageable once I revisited the code that ChatGPT had previously provided. This review enabled me to comprehend the specific functions associated with each webpage element. I encountered a challenge while aligning the containers at the center of the page. Whenever I increased the container width, the right side expanded, causing the container to tilt to the right. I realized that I needed to apply a margin-left attribute to the container's CSS class. This experience also underscored the importance of understanding the precedence of CSS styles. Integrating additional effects into pre-existing code created by others led to overlapping styles, necessitating meticulous sorting. Through a line-by-line examination, I resolved these issues and deepened my understanding of the code's significance.",
-  "image": "Images/containerstyle.png" 
 
-  },
-  {
-  "point": "Reflection",
-  "content": "Designing a captivating website demands substantial dedication and time investment. Every pixel warrants attention, and meticulous attention to detail is crucial. I approach the upcoming days with a blend of enthusiasm and apprehension, realizing that the journey ahead resembles a bottomless pit of boundless enhancements."
-  }
-  ]
-  },
-  
-  
-  
-  
+    
+    {
+      "title": "Upgrading my Burger Webpage Day 1",
+      "date": "9th August 2023",
+      "sections": [
+        {
+          "point": "Today's Accomplishments",
+          "content": "Today I coded: \\n\n1. A Navigation Bar\\n2. 3 more Subdirectories \\n3. Used Google Fonts\\n4. Created a form on HTML"
+        },
+        {
+          "point": "Navigation Bar",
+          "content": "A necessity for most websites. While reviewing the navigation bar code that ChatGPT provided, I familiarized myself with additional CSS styles. Creating a separate container from the header to style the navigation bar individually proved to be a wise choice. I also learned how to open new directories or files in a new tab by clicking on the words in the navigation bar.",
+          "image": "Images/navigationbarcode.png"
+        },
+        {
+          "point": "Subdirectories",
+          "content": "Today, I established three new folders containing HTML, CSS, JS, and JSON files for three additional webpages. By comprehensively understanding and annotating the code with comments, I was able to eliminate unnecessary elements and incorporate new, pertinent code for the new webpages.",
+          "image": "Images/navigationbar.png"
 
+        },
+        {
+          "point": "Google Fonts",
+          "content": "Today, I took a brief exploration into Google Fonts and integrated them into my contact subdirectory. Moving forward, I will exclusively utilize customized fonts. Additionally, I recognize the importance of maintaining a consistent hierarchy within my CSS stylings."
+        },
+        {
+          "point": "Created a form and animated it when clicked",
+          "content": "With guidance from ChatGPT, I successfully implemented an HTML form. The process was straightforward, and I further enhanced the form by effortlessly incorporating an engaging animation",
+          "video": "Videos/Navbar+animationform.mov"
+
+        },
+        {
+          "point": "Reflection",
+          "content": "Today was highly productive. I deepened my understanding of absolute positioning and gained insights into the essential steps required for complete webpage customization. My future pursuits include delving into advanced techniques such as CSS Flexbox and CSS Grid. Subsequently, I am determined to craft a meticulously designed and visually appealing website without any concessions"
+        }
+      ]
+    },
+    {
+      "title": "Completed a Burger Webpage",
+      "date": "8th August 2023",
+      "sections": [
+        {
+          "point": "Deciding on the Focus",
+          "content": "This morning, I engaged in a goal-setting session and made the deliberate choice to invest my time and effort in crafting webpages that epitomize beauty and emphasize the essence of user experience (UX) and user interface (UI). I have decided to do 3  webpages: \\n\\n1. A personal portfolio website, \\n2. A website for a burger-centric business, \\n3. A website for a fashion brand.\\n\\nUpon the completion of these three projects, I plan to venture into the realms of C++, Java, and Python. I intend to create engaging games, develop useful backend software, and immerse myself in the intricate world of hacking culture."
+        },
+        {
+          "point": "Today's Accomplishments",
+          "content": "Today, I successfully constructed the front page of a burger-themed website.",
+          "video": "Videos/BurgerWebpage.mov"
+        },
+        {
+          "point": "Source of Inspiration",
+          "content": "I derived inspiration from diverse sources, including this webpage: (https://5scontent.com/homepage/) which provided me with insights into creative fading techniques. Additionally, the Mos Burger webpage (https://www.mosburger.com.sg/) influenced the elegant arrangement of food items and text that I incorporated into my project."
+        },
+        {
+          "point": "Website Construction Process",
+          "content": "Navigating the nuances of applying fade effects, tweaking opacity, and managing timing became manageable once I revisited the code that ChatGPT had previously provided. This review enabled me to comprehend the specific functions associated with each webpage element. I encountered a challenge while aligning the containers at the center of the page. Whenever I increased the container width, the right side expanded, causing the container to tilt to the right. I realized that I needed to apply a margin-left attribute to the container's CSS class. This experience also underscored the importance of understanding the precedence of CSS styles. Integrating additional effects into pre-existing code created by others led to overlapping styles, necessitating meticulous sorting. Through a line-by-line examination, I resolved these issues and deepened my understanding of the code's significance.",
+          "image": "Images/containerstyle.png"
+        },
+        {
+          "point": "Reflection",
+          "content": "Designing a captivating website demands substantial dedication and time investment. Every pixel warrants attention, and meticulous attention to detail is crucial. I approach the upcoming days with a blend of enthusiasm and apprehension, realizing that the journey ahead resembles a bottomless pit of boundless enhancements."
+        }
+      ]
+    },
     {
       "title": "Embarking on My Journey as a Software Engineer",
       "date": "7th August 2023",
@@ -56,6 +87,5 @@
         }
       ]
     }
-    
   ]
 }
