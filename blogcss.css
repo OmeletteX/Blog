@@ -22,7 +22,11 @@ header {
 }
 
 .blog-post {
-  border: 1px solid #ddd;
+  border: 10px solid #ddd;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+
   margin-bottom: 20px;
   padding: 20px;
 }
