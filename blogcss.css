@@ -1,5 +1,6 @@
 /* Basic styling for the blog layout */
 
+/* Body styling */
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -7,6 +8,7 @@ body {
   padding: 20px;
 }
 
+/* Header styling */
 header {
   background-color: #333;
   color: #fff;
@@ -14,38 +16,41 @@ header {
   padding: 10px;
 }
 
-/* Add this to your existing CSS file */
+/* Date and time styling */
 #current-date-time {
   font-size: 14px;
   color: #888;
   margin-top: 5px;
 }
 
+/* Blog post styling */
 .blog-post {
   border: 10px solid #ddd;
   margin-left: 200px;
   margin-right: 200px;
   margin-top: 50px;
-
   margin-bottom: 20px;
   padding: 20px;
 }
 
+/* Blog post title styling */
 .blog-post h2 {
   margin-top: 0;
 }
 
+/* Blog post subtitle styling */
 .blog-post h3 {
   margin-top: 0;
   font-size: 16px;
 }
 
+/* Date styling within a post */
 .blog-post p.date {
   color: #888;
   margin-top: 5px;
 }
 
-
+/* Footer styling */
 footer {
   text-align: center;
   margin-top: 20px;
