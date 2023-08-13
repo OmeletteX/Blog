@@ -61,32 +61,12 @@ async function loadBlogContent() {
             if (sectionImage.width > 600) {
               sectionImage.style.width = "50%"; // Adjust the width percentage as needed
             }
-            if (sectionImage.height > 400) {
-              sectionImage.style.height = "50%"; // Adjust the height percentage as needed
+            if (sectionImage.height > 300) {
+              sectionImage.style.height = "30%"; // Adjust the height percentage as needed
             }
           };
           
           postDiv.appendChild(sectionImage);
-        }
-
-        // Append second image if it exists
-        if (section.image2) {
-          const sectionImage2 = document.createElement("img");
-          sectionImage2.src = section.image2;
-          sectionImage2.alt = "Image2";
-          sectionImage2.style.marginBottom = "20px"; // Adjust the value as needed
-
-          // Check and adjust image size
-          sectionImage2.onload = function() {
-            if (sectionImage2.width > 600) {
-              sectionImage2.style.width = "50%"; // Adjust the width percentage as needed
-            }
-            if (sectionImage2.height > 400) {
-              sectionImage2.style.height = "50%"; // Adjust the height percentage as needed
-            }
-          };
-          
-          postDiv.appendChild(sectionImage2);
         }
 
         // Append video if it exists
