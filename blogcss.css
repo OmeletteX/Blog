@@ -5,7 +5,7 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 0;
-  padding: 20px;
+  padding: 1.25rem;
 }
 
 /* Header styling */
@@ -13,24 +13,24 @@ header {
   background-color: #333;
   color: #fff;
   text-align: center;
-  padding: 10px;
+  padding: 0.625rem;
 }
 
 /* Date and time styling */
 #current-date-time {
-  font-size: 14px;
+  font-size: 0.875rem;
   color: #888;
-  margin-top: 5px;
+  margin-top: 0.3125rem;
 }
 
 /* Blog post styling */
 .blog-post {
-  border: 10px solid #ddd;
-  margin-left: 200px;
-  margin-right: 200px;
-  margin-top: 50px;
-  margin-bottom: 20px;
-  padding: 20px;
+  border: 0.625rem solid #ddd;
+  margin-left: 12.5rem;
+  margin-right: 12.5rem;
+  margin-top: 3.125rem;
+  margin-bottom: 1.25rem;
+  padding: 1.25rem;
 }
 
 /* Blog post title styling */
@@ -41,18 +41,18 @@ header {
 /* Blog post subtitle styling */
 .blog-post h3 {
   margin-top: 0;
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 /* Date styling within a post */
 .blog-post p.date {
   color: #888;
-  margin-top: 5px;
+  margin-top: 0.3125rem;
 }
 
 /* Footer styling */
 footer {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 1.25rem;
   color: #888;
 }
