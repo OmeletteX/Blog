@@ -1,6 +1,17 @@
 {
   "posts": [
 
+    {
+      "title": "Learning and Collecting ideas for my burger website",
+      "date": "12th August 2023",
+      "sections": [
+        {
+          "point": "Today's Accomplishments",
+          "content": "Today, I:\\n\n1. Learned about using 'rem' units instead of 'px'.\\n2. Switched my IDE from Visual Studio Code to WebStorm.\\n3. Explored and tinkered with ideas from CodePen.\\n4. Looked up Amazon CodeWhisperer and installed it."
+        }
+      ]
+    },
+
 
     {
       "title": "Upgrading my Burger Webpage Day 2, stucked.",
@@ -8,27 +19,27 @@
       "sections": [
         {
           "point": "Today's Accomplishments",
-          "content": "Today I: \\n\n1. Learnt how to create hyperlinks for text in Json using JS  \\n2. Added comments for my blog html, JS source codes \\n3. Tried to get a HTML form to work with PHP / APACHE server"
+          "content": "Today, I:\\n\n1. Learned how to create hyperlinks for text in JSON using JavaScript.\\n2. Added comments to my blog HTML and JavaScript source codes.\\n3. Attempted to make an HTML form work with a PHP / Apache server."
         },
         {
           "point": "Stuck at a problem",
-          "content": "Skipped a day of journal as I was engrossed with getting information from a html form to my email or a database. After much tweaking, I still could not figure out why is my computer not registering my php file in localhost. Even though I did not manage to find the solution, I learnt much about a local server, XAMPP, why php and sql is important. I will come back to this issue again. ",
-          "image": "Images/localhosterror.png",
-          "image2": "Images/xampp.png"
-
-
+          "content": "I skipped a day of journaling because I was engrossed in trying to get information from an HTML form to my email or a database. After much tweaking, I still couldn't figure out why my computer isn't registering my PHP file on localhost. Even though I didn't manage to find the solution, I learned a lot about a local server, XAMPP, and why PHP and SQL are important. I will come back to this issue again.",
+          "image": "Images/localhosterror.png"
+        },
+        {
+          "point": "",
+          "content": "",
+          "image": "Images/xampp.png"
         },
         {
           "point": "Codepen and Three.JS ",
-          "content": "After being stucked at the php XAMPP server issue, I decided to take a break from coding my burger website and read up on what makes a good front end developer. I came across Codepen which I practiced on 2 years ago and Three.JS will contains some of the most amazing 3D visuals for web development. After I learnt that I can reuse the code from their public domain, I was in cloud9. I scrolled in awe through thousands of visuals in codepen and I can't wait to implement those ideas in my portfolio webpages.",
+          "content": "After being stuck on the PHP XAMPP server issue, I decided to take a break from coding my burger website and read up on what makes a good front-end developer. I came across Codepen, which I had practiced with 2 years ago, and Three.JS, which contains some of the most amazing 3D visuals for web development. Learning that I can reuse code from their public domain, I was on cloud nine. I scrolled in awe through thousands of visuals in Codepen, and I can't wait to implement those ideas on my portfolio webpages.",
           "video": "Videos/codepen.mov"
 
         },
-
-     
         {
           "point": "Reflection",
-          "content": "Yesterday I met my first roadblock: configuring XAMPP for sql and php server. The silver lining however was because I decided to set it aside, i discovered codepen and three.js which I have never seen such amazing animation and designs just on my fingertips. This mjust made web development a x1000 times more interesting."
+          "content": "Yesterday, I encountered my first roadblock: configuring XAMPP for SQL and PHP server. The silver lining, however, was that I decided to set it aside. I discovered Codepen and Three.js, which I had never seen such amazing animation and designs right at my fingertips. This just made web development a thousand times more interesting."
         }
       ]
     },
