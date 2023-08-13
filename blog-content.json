@@ -2,6 +2,32 @@
   "posts": [
 
     {
+      "title": "Completing a Loading Page and Creating a Brand Logo",
+      "date": "13th August 2023",
+      "sections": [
+        {
+          "point": "Today's Accomplishments",
+          "content": "Today, I accomplished the following tasks:\\n\n1. Completed my front loading page.\\n2. Created my own logo using AI and Canva."
+        },
+        {
+          "point": "Overcoming a Challenge",
+          "content": "This morning, I faced a challenging issue - my gradient background wasn't displaying correctly despite having the correct code. Neither GPT nor Google provided any clear solutions. After thorough research, I discovered that the problem was due to the missing 'height' attribute.",
+          "image": "Images/heightgradient.png"
+        },
+        {
+          "point": "Finishing my First Loading Page",
+          "content": "I organized my front page into manageable tasks, and I completed them all in a single day. I started by working on the loading animation, then created the brand logo, decided on the background, and finally, perfected the loading animation and transition to the Front Page.",
+          "video": "Videos/loadingpage.mov"
+        },
+        {
+          "point": "Making Compromises",
+          "content": "One significant challenge when learning without a predefined design to follow is the risk of giving up on a desired webpage, animation, or algorithm in favor of something easier. In real-life scenarios, engineers often need to build something that's already been designed, leading them to adapt and persist through challenges."
+        }
+      ]
+    },
+
+
+    {
       "title": "Learning and Collecting ideas for my burger website",
       "date": "12th August 2023",
       "sections": [
