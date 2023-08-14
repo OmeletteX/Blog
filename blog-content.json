@@ -2,6 +2,21 @@
   "posts": [
 
     {
+      "title": "Completed a Loading Page and Front Page",
+      "date": "14th August 2023",
+      "sections": [
+        {
+          "point": "Today's Accomplishments",
+          "content": "Today, I achieved the following tasks:\\n\n1. Completed my main page.\\n2. Gained familiarity with layering using z-index."        },
+        {
+          "point": "Finishing my First Main Page",
+          "content": "This was one of the most challenging tasks I've tackled to date. Ensuring that the animations were timed correctly and that everything was positioned correctly proved to be extremely difficult, but the sense of accomplishment was well worth it. It's reassuring to know that it's possible to create a high-quality website even with just basic CSS and HTML skills.",
+          "video": "Videos/loadingandfrontpage.mov"
+        }
+      ]
+    },
+
+    {
       "title": "Completing a Loading Page and Creating a Brand Logo",
       "date": "13th August 2023",
       "sections": [
