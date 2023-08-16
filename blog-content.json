@@ -1,13 +1,32 @@
 {
   "posts": [
-
     {
       "title": "Completed a Loading Page and Front Page",
       "date": "14th August 2023",
       "sections": [
         {
           "point": "Today's Accomplishments",
-          "content": "Today, I achieved the following tasks:\\n\n1. Completed my main page.\\n2. Gained familiarity with layering using z-index."        },
+          "content": "I'm pleased to share the tasks I accomplished today:\\n\n1. Successfully finished creating my menu.\\n2. Enhanced my understanding of implementing layered animations while scrolling."
+        },
+        {
+          "point": "Finished my menu page",
+          "content": "Today, I had a productive day during which I utilized a CodePen template to develop my menu page. I customized the visuals and text according to my preferences. The design I implemented was based on the menu layout available on CodePen.\n\n\n\n\n\n\\n\n This is the menu design from codepen.",
+          "video": "Videos/originalmenu.mov"
+        },
+        {
+          "point": "",
+          "content": "This is my menu design.",
+          "video": "Videos/newmenu.mov"
+        }
+      ]
+    },
+    {
+      "title": "Completed a Loading Page and Front Page",
+      "date": "14th August 2023",
+      "sections": [
+        {
+          "point": "Today's Accomplishments",
+          "content": "Today, I achieved the following tasks:\\n\n1. Completed my main page.\\n2. Gained familiarity with layering words over background video using z-index. \\n3. Learning how to hide content and reappear them afterwards."        },
         {
           "point": "Finishing my First Main Page",
           "content": "This was one of the most challenging tasks I've tackled to date. Ensuring that the animations were timed correctly and that everything was positioned correctly proved to be extremely difficult, but the sense of accomplishment was well worth it. It's reassuring to know that it's possible to create a high-quality website even with just basic CSS and HTML skills.",
@@ -22,7 +41,7 @@
       "sections": [
         {
           "point": "Today's Accomplishments",
-          "content": "Today, I accomplished the following tasks:\\n\n1. Completed my front loading page.\\n2. Created my own logo using AI and Canva."
+          "content": "Today, I accomplished the following tasks:\\n\n1. Completed my front loading page.\\n2. Created my own logo using AI and Canva. \\n3. Learning how to create a curtain transition effect. "
         },
         {
           "point": "Overcoming a Challenge",
