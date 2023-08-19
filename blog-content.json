@@ -1,8 +1,52 @@
 {
   "posts": [
+
+    {
+      "title": "Got familiar with some Page Transitions and Animation",
+      "date": "19th August 2023",
+      "sections": [
+        {
+          "point": "Today's Accomplishments",
+          "content": "Over the past four days, I've been engaged in the following activities:\\n\n1. Installing various packages and libraries using NPM.\\n2. Learning the intricacies of implementing page transitions and animations."
+        },
+        {
+          "point": "Successful Implementation of Page Transition in My Burger Project:",
+          "content": "I'm thrilled to announce the successful completion of page transition integration for my burger project.\n\nYou can view the video demonstration here: ",
+          "video": "Videos/pagetransition.mov"
+        },
+        {
+          "point": "Getting used to Barba, GSAP and Swup",
+          "content": "Much of my time has been spent on installing libraries and getting them to work. It is truly troublesome to have the perfect code, but it doesn't work properly due to incorrect library installation. Many online tutorials and instructors assume that students already know how to set up the correct environment, but this isn't the case for most new programmers.What's amusing is that after numerous attempts with various libraries, the animation I ended up using is a simple fade-in to black and fade-out transition created using vanilla CSS and JavaScript. The effective animation solution was right in front of me all along. I was overly fixated on the notion that vanilla code wasn't powerful enough and that I needed a library for page transitions, which led to a significant waste of time.However, gaining a glimpse into the animation landscape within front-end development has ignited my interest, and I'm confident that I'll return to learn some GSAP animation techniques.",
+          "image": "Images/transitionfiles.png"
+        },
+        {
+          "point": "Some of the page transition I have mastered",
+          "content":"",
+          "video": "Videos/trans1.mov"
+        },
+        {
+          "point": "",
+          "content":"",
+          "video": "Videos/trans2.mov"
+        },
+        {
+          "point": "",
+          "content":"",
+          "video": "Videos/trans3.mov"
+        },
+        {
+          "point": "",
+          "content":"",
+          "video": "Videos/trans4.mov"
+        }
+      ]
+    },
+
+
+
     {
       "title": "Completed a Loading Page and Front Page",
-      "date": "14th August 2023",
+      "date": "15th August 2023",
       "sections": [
         {
           "point": "Today's Accomplishments",
