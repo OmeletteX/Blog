@@ -2,6 +2,39 @@
   "posts": [
 
     {
+      "title": "Creating the Initial Section for Our 'About Us' Page",
+      "date": "20th August 2023",
+      "sections": [
+        {
+          "point": "Today's Accomplishments",
+          "content": "Today I completed the following:\\n\n1. Successfully integrated a threejs animation into my project\\n2.Implemented captivating text animations. \\n3. Learn about Snap Scrolling.",
+          "video": "Videos/aboutuspage.mov"
+        },
+        {
+          "point": "Snap Scrolling",
+          "content": "To enhance the structure of my 'About Us' page, I decided to divide it into distinct sections. Employing snap scrolling was a natural choice for achieving this, and the process turned out to be relatively straightforward—especially compared to the challenges I faced when working with threeJS."
+        },
+        {
+          "point": "ThreeJS",
+          "content": "Embarking on the journey of learning threejs and 3D animation from scratch was my next endeavor. After an hour of struggling to grasp the concepts, I stumbled upon an incredible 3D animation of a helicopter against a rotating globe on CodePen. While the content was unrelated to my burger-themed webpage, I was determined to integrate a 3D element into my project. By adapting and implementing the existing animation, I quickly achieved a functional result. However, I craved customization and spent several hours deciphering the nuances of atmospheric lighting, shadow casting, and more. Eventually, I successfully tailored the color scheme to my preferences.\n\nHere's the original CodePen animation for reference:",
+          "video": "Videos/threejshelicopter.mov"
+        },
+
+        {
+          "point": "Text Animation",
+          "content":"Exploring the web, I was captivated by the abundance of fascinating text animations available. Among the options, I selected one to experiment with. Admittedly, the code could benefit from some refactoring using loops to streamline its structure. Nevertheless, the process was enjoyable, and I am enthusiastic about delving into more text animation projects in the times ahead."
+
+
+
+
+        ,
+          "video": "Videos/textanimationgreen.mov"
+        }
+      ]
+    },
+
+
+    {
       "title": "Got familiar with some Page Transitions and Animation",
       "date": "19th August 2023",
       "sections": [
