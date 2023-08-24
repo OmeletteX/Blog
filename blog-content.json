@@ -1,8 +1,27 @@
 {
   "posts": [
     {
+      "title": "Uploaded my first official website!",
+      "date": "23rd August 2023",
+      "sections": [
+        {
+          "point": "Today's Accomplishments",
+          "content": "Today I completed the following:\\n\n1. Finished Gallery Page \\n2.Link up all tabs for my burger website \\n3. Uploaded my burger website online.",
+          "video": "Videos/burger2video.mov"
+
+        },
+        {
+          "point": "Gallery",
+          "content": "Found a nice photo gallery example on codepen. Build on it, added some gsap. Below is the original example.",
+          "video": "Videos/photogallery.mov"
+        }
+      ]
+    },
+
+
+    {
       "title": "Completed my Reservation Page, Started learning GSAP.",
-      "date": "22th August 2023",
+      "date": "22nd August 2023",
       "sections": [
         {
           "point": "Today's Accomplishments",
