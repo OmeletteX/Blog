@@ -6,13 +6,12 @@
       "sections": [
         {
           "point": "Today's Accomplishments",
-          "content": "Today I completed the following:\\n\n1. Finished Gallery Page \\n2.Link up all tabs for my burger website \\n3. Uploaded my burger website online.",
+          "content": "Today, I accomplished the following tasks:\\n\n1. Completed the Gallery Page\n2. Linked all tabs for my burger website\n3. Uploaded my burger website online.",
           "video": "Videos/burger2video.mov"
-
         },
         {
           "point": "Gallery",
-          "content": "Found a nice photo gallery example on codepen. Build on it, added some gsap. Below is the original example.",
+          "content": "I discovered a wonderful photo gallery example on CodePen. It utilizes the CSS grid feature, which was new to me. I expanded upon it by incorporating some GSAP animations. Below is the original example for reference.",
           "video": "Videos/photogallery.mov"
         }
       ]
