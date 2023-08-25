@@ -1,12 +1,28 @@
 {
   "posts": [
     {
+      "title": "Started on React.",
+      "date": "25th August 2023",
+      "sections": [
+        {
+          "point": "Today's Accomplishments",
+          "content": "Today, I accomplished the following tasks:",
+          "image": "Images/react1.png"
+        },
+        {
+          "content": "It was easier then I thought. I am thankful for the knowledge that python has provided for me. Knowing functions and OOP was godsend when learning react. As ChatGPT told me:",
+          "image": "Images/cgpt.png"
+        }
+      ]
+    },
+
+    {
       "title": "Uploaded my first official website!",
       "date": "23rd August 2023",
       "sections": [
         {
           "point": "Today's Accomplishments",
-          "content": "Today, I accomplished the following tasks:\\n\n1. Completed the Gallery Page\n2. Linked all tabs for my burger website\n3. Uploaded my burger website online.",
+          "content": "Today, I accomplished the following tasks:\\n\n1. Completed the Gallery Page\\n2. Linked all tabs for my burger website\\n3. Uploaded my burger website online.",
           "video": "Videos/burger2video.mov"
         },
         {
