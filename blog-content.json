@@ -1,6 +1,65 @@
 {
   "posts": [
     {
+      "title": "Material UI",
+      "date": "6th September 2023",
+      "sections": [
+        {
+          "point": "This week's Accomplishments",
+          "content": "This week, I accomplished the following:\\n\n1. Utilized React for web development.\\n2. Gained a deeper understanding of component-based and modular programming for frontend development.\\n3. Explored a new library, Material UI, for building user interfaces.\\n4. Successfully completed a website project using React and Material UI."
+        },
+        {
+          "point": "Material UI",
+          "content": "I stumbled upon Material UI on Reddit and decided to use it for my first React project. While some people criticize the MUI library for being clunky and not easily customizable, I believe that the ability to create websites with a global theme and CSS with minimal customization is a skill that distinguishes proficient front-end developers.",
+          "image": "Images/mui.png"
+        },
+        {
+          "point": "Burger Delight (React & MUI)",
+          "content": "I decided to recreate my original burger project, this time using React and Material UI. In a nutshell, the key difference lies in the approach to programming. With HTML and CSS, it's an imperative language where I build things from the ground up. However, with React, it's component-based programming, which means I envision the final product, break it into modules, and then assemble them together. Even for my simple burger website, I can already appreciate the convenience and scalability that this framework offers.",
+          "video": "Videos/bdmui.mov"
+        },
+        {
+          "point": "What's Next?",
+          "content": "After conducting some research, I've concluded that I shouldn't limit myself to just Material UI as my primary library. Looking ahead, I plan to delve into learning Tailwind CSS, Redux (for backend management), and possibly explore a new library like Ant Design. Additionally, I'll be revisiting core React concepts such as state, props, hooks, and component lifecycles because I believe that establishing a strong foundation in React is crucial for a frontend Developer."
+        },
+        {
+          "point": "",
+          "content":"",
+          "image": "Images/redux.png"
+        },
+        {
+          "point": "",
+          "content":"",
+
+          "image": "Images/tailwind.png"
+        },
+        {
+          "point": "",
+          "content":"",
+          "image": "Images/ant.png"
+        }
+      ]
+    },
+    
+
+    {
+      "title": "Uploaded my first official website!",
+      "date": "23rd August 2023",
+      "sections": [
+        {
+          "point": "Today's Accomplishments",
+          "content": "Today, I accomplished the following tasks:\\n\n1. Completed the Gallery Page\\n2. Linked all tabs for my burger website\\n3. Uploaded my burger website online.",
+          "video": "Videos/burger2video.mov"
+        },
+        {
+          "point": "Gallery",
+          "content": "I discovered a wonderful photo gallery example on CodePen. It utilizes the CSS grid feature, which was new to me. I expanded upon it by incorporating some GSAP animations. Below is the original example for reference.",
+          "video": "Videos/photogallery.mov"
+        }
+      ]
+    },
+
+    {
       "title": "Started on React.",
       "date": "25th August 2023",
       "sections": [
