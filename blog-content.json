@@ -1,5 +1,29 @@
 {
   "posts": [
+
+    {
+      "title": "Crypto Website",
+      "date": "13th September 2023",
+      "sections": [
+        {
+          "point": "This week's Accomplishments",
+          "content": "This week, I accomplished the following:\\n\n1. Created a cryptocurrency website on Vite using plain React.\\n2. Learned how to fetch data from APIs. \\n3.Became familiar with React syntax, including useState, props, and mapping, among others.",
+          "video": "Videos/cryptovid.mov"
+        },
+        {
+          "point": "Inspirations",
+          "content": "Taking the plunge into a cryptocurrency project seemed like a natural step – after all, why not? With a good understanding of its demands, I couldn't help but notice how prevalent such projects are in developer portfolios. If you look at Lightspeed webpage, you'll see how it includes the ideas from the different websites. ",
+          "video": "Videos/cryptoinspvid.mov"
+        },
+        {
+          "point": "What I learnt",
+          "content": "Upon completing the majority of this webpage using vanilla React and keeping library imports to a minimum, I came to appreciate the significance of having a reliable toolkit or library at your disposal. It's akin to having a personalized cheat sheet for exams. Consequently, I'm now in the process of evaluating and selecting a suitable library to streamline and enhance the creation of this cryptocurrency website."
+        }
+      ]
+    },
+
+
+
     {
       "title": "Material UI",
       "date": "6th September 2023",
@@ -40,7 +64,7 @@
         }
       ]
     },
-    
+
 
     {
       "title": "Uploaded my first official website!",
