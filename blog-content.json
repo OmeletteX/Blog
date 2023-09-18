@@ -2,6 +2,29 @@
   "posts": [
 
     {
+      "title": "Business Website",
+      "date": "17th September 2023",
+      "sections": [
+        {
+          "point": "This week's Accomplishments",
+          "content": "This week, I achieved the following:\\n\n1. Created a business product website.\\n2. Learned Tailwind CSS.\\n3. Built fully reusable components.",
+          "video": "Videos/convertflow.mov"
+        },
+        {
+          "point": "Inspirations",
+          "content": "While researching Tailwind CSS, I came across beautifully designed website templates on Tailwind UI, DaisyUI, and Flowbite. I experimented with DaisyUI and Flowbite but couldn't get used to them. So, I delved into Tailwind UI, almost purchasing a lifetime access plan for $250, but I decided against it. What I discovered is that Tailwind UI provides pre-made components and pages that can be easily replicated with a simple copy-paste. These pre-made components look decent and are quite simple. However, after some research, I found that many users say these pre-made components lack the necessary dynamism and are better suited for direct use than for building custom solutions. Therefore, I decided to copy the pre-made components and make them more dynamic. By allowing all content to be defined as variables declared above, I can easily reuse these components. Perhaps in the future, I might develop an application with similar functionality to WordPress.",
+          "video": "Videos/convertflowcode.mov"
+        },
+        {
+          "point": "Netlify",
+          "content": "I also decided to deploy my first React website, and it was surprisingly straightforward with Netlify. You can check out my website at:\\n https://fanciful-horse-2623b3.netlify.app/"
+
+        }
+      ]
+    },
+
+
+    {
       "title": "Crypto Website",
       "date": "13th September 2023",
       "sections": [
