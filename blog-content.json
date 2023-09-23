@@ -2,6 +2,45 @@
   "posts": [
 
     {
+      "title": "Weather Webpage",
+      "date": "22nd September 2023",
+      "sections": [
+        {
+          "point": "This week's Accomplishments",
+          "content": "This week, I achieved the following:\\n\n1. Build a weather webpage",
+          "video": "Videos/weather.mov"
+        },
+        {
+          "point": "Inspiration",
+          "content": "So, I have this tennis group where we play tennis every other week. The tennis court is outdoors, so there are times when we have to cancel last minute due to unexpected rain. Apparently, it was canceled last week, which caused a lot of disappointment for me and my friends. Thus, I decided to build this app/webpage. I would say this is the first time I've built something without any external help or guidance (such as YouTube) on the structure and logic of the code. However, I still used GPT for everything, hehe. The most challenging part was mainly sorting the data and scaling down the webpage, as I initially wanted to do it for all countries. Making the webpage dynamic according to the timezone (morning, afternoon, night) was also tough but enjoyable. Overall, I believe there's room for improvement in the structure of my code and the logic behind it.",
+          "image": "Images/weatherissue.png"
+        },
+        {
+          "point": "Inspiration",
+          "content": "I used the UI of this webpage and incorporated the functionality my friend needed to create my final product.",
+          "image": "Images/weatherdribbble.png"
+        }
+      ]
+    },
+
+
+    {
+      "title": "User Authentication Backend",
+      "date": "19th September 2023",
+      "sections": [
+        {
+          "point": "This week's Accomplishments",
+          "content": "This week, I achieved the following:\\n\n1. Build a login page and sign up ",
+          "video": "Videos/cryptologin.mov"
+        },
+        {
+          "point": "What did I use",
+          "content": "Back when I was on my first burger project, I attempted to create a form submission linked to MySQL using XAMPP, but I couldn't resolve the issue. However, this time, I had the opportunity to work with XAMPP and MySQL again, and I successfully tackled the challenge of password storage. Learning how to create server-side code and configure server-side folders has been quite exciting."
+        }
+      ]
+    },
+
+    {
       "title": "Business Website",
       "date": "17th September 2023",
       "sections": [
