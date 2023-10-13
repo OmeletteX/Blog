@@ -2,6 +2,40 @@
   "posts": [
 
     {
+      "title": "Learning C",
+      "date": "13th October 2023",
+      "sections": [
+        {
+          "point": "Pass weeks' Accomplishments",
+          "content": "I achieved the following:\\n1. Learn the foundation of C programming language",
+          "video": "Videos/RoadmapC.mov"
+        },
+        {
+          "point": "3 weeks since my last blog post!",
+          "content": "Feeling a bit weary of React and Tailwind, I embarked on a journey to strengthen my fundamental computer knowledge. This led me to explore the world of C programming. To my surprise, it proved to be less formidable than I had initially anticipated, thanks to my solid grounding in Python. It was the concepts of pointers and dynamic memory allocation, however, that truly caught my attention, offering fresh perspectives and sparking a newfound interest. \\n\\n          They say that learning C has the power to transform you into a more humble engineer, and I can now attest to the wisdom of that adage. My foray into the intricacies of C has given me an enhanced appreciation for the methods and built-in functions Python offers. It's not just about the how but also the why and what's happening behind the scenes. \\n\\n As I continue my journey into the realm of C, I eagerly embrace the opportunity to delve deeper into the inner workings of programming. The foundational knowledge I gain in C is like the bedrock of a strong structure, reminding me that understanding the core concepts of a programming language is indispensable for becoming a well-rounded developer. It's a journey of enlightenment and self-discovery that I look forward to with enthusiasm."
+        },
+        {
+          "point": "Library Management",
+          "content": "I completed two projects during my hiatus. My approach is to initially start a project in Python, allowing me to familiarize myself with the concepts and logic involved. Once I'm comfortable with the project, I undertake the challenge of replicating it in C. This method works well for me, especially since I'm not as proficient in C yet. \\n\\nWhat did I glean from these projects? Here are the key takeaways: \\n\\n1. Functional Programming: Working with Python allowed me to reinforce my understanding of functional programming concepts, enhancing my problem-solving skills. \\n 2. Utilizing Structures (Structs) in C: The projects in C gave me valuable experience in managing data using structures. This foundational knowledge will be pivotal as I explore more complex applications. \\n3. File Management for Data Storage and Retrieval: These projects also introduced me to the world of file management, enabling me to store and retrieve data efficiently. This skill will prove invaluable as I delve deeper into programming and data handling. \\n\\nMy journey into the realms of Python and C has been an enriching experience, pushing me to become a more versatile and knowledgeable programmer."
+        },
+        {
+          "point": "Calendar Application",
+          "content": "The Calendar Application was my second project on the C programming journey. Truth be told, I initially had little understanding of what this project entailed. After watching YouTube tutorials, I embarked on the challenge of creating an application that can display a calendar for a given year based on user input. \\n\\nSo, what were the key lessons I took away from this endeavor? \\n\\n1. Calendar Theories: This project delves into the theories and concepts that underpin calendar systems. It required me to grasp and implement ideas related to identifying leap years, calculating the number of days in each month, and determining the day of the week for a given date. These are fundamental and essential calculations in calendar-related programming. \\n2. Array Manipulation: The Calendar Application makes extensive use of arrays, including 'days_in_month,' 'week_monday,' and 'month_names,' to store and manipulate data concerning days in a month, days of the week, and month names. Learning how to effectively work with arrays has been a critical aspect of this project. \\n3. UI Manipulation Logic: Beyond the core calendar computations, this project involves logic to format and present the calendar in a user-friendly and visually appealing manner. It encompasses the organization of days, weeks, and months to create a well-structured and readable calendar. \\n\\n This project has been a valuable exercise in practical programming, strengthening my understanding of calendar systems, data manipulation using arrays, and UI logic. It's yet another step in my journey to becoming a proficient programmer in the C language."
+        },
+        {
+          "point": "",
+          "content":"",
+          "video": "Videos/Python.mov"
+        },
+        {
+          "point": "",
+          "content":"",
+          "video": "Videos/C.mov"
+        }
+      ]
+    },
+
+    {
       "title": "Weather Webpage",
       "date": "22nd September 2023",
       "sections": [
