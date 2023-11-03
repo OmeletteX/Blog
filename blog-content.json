@@ -1,12 +1,42 @@
 {
   "posts": [
+    {
+      "title": "3 projects in for my portfolio",
+      "date": "4th November 2023",
+      "sections": [
+        {
+          "point": "Past 3 weeks' Accomplishments",
+          "content": "I achieved the following:\\n1. Build up Lightspeed with react / tailwind \\n2. Build a E commerce Website \\n3. Build a website curated to showcase colors and design (Seasons) \\n4.Halfway through my portfolio \\n5. Starting using Figma with proper design process",
+          "video": "Videos/Portfolio.mov"
+        },
+        {
+          "point": "3 weeks since my last blog post!",
+          "content": "I'm back to working with React and have been building projects for my portfolio. I didn't update my journal as I felt it mainly involved reinforcing my existing skills, with the addition of new skills like React context management. However, one thing that still puzzles me is my inability to write JSX code from scratch. It's somewhat surprising that I can create complex websites without manually writing JSX syntax."
+        },
+        {
+          "point": "LightSpeed",
+          "content": "Lightspeed was my first React project, initially coded in React and CSS, and it ended up being quite messy. The mess was so significant that making it responsive required recoding the entire mobile section. Hence, it was a no-brainer for me to re-implement it using React and Tailwind CSS. However, this time, I decided to remove the login page and routing functionality from the Lightspeed website. There might be plans to add these features, along with a customer database, in the future.",
+          "video": "Videos/LightspeedPortfolio.mov"
+        },
+        {
+          "point": "BELLE.",
+          "content": "An e-commerce project is a vital experience for any frontend developer, or at least, that's what I believed. So, I created BELLE, an e-commerce website for a high-end fashion fragrance company. Drawing inspiration from the structure of the Chanel website, I harnessed my React and Tailwind CSS skills, this time focusing on learning and implementing proper context and state management. This project stands as one of the most well-structured websites I've built, and I take great pride in the results.",
+          "video": "Videos/BellePortfolio.mov"
+        },
+        {
+          "point": "Seasons.",
+          "content": "Seasons was born from a single Instagram post, believe it or not. I fell in love with its design at first sight. Seasons isn't a functional webpage; it's all about aesthetics. Using React state management and drawing inspiration from various art pieces on Pinterest, I crafted this website. My intention is to convey to those who view this site through my portfolio that web development isn't just about functionality; it's also about telling a story and expressing a deep appreciation for design and color.",
+          "video": "Videos/SeasonsPortfolio.mov"
+        }
+      ]
+    },
 
     {
       "title": "Learning C",
       "date": "13th October 2023",
       "sections": [
         {
-          "point": "Pass weeks' Accomplishments",
+          "point": "Past weeks' Accomplishments",
           "content": "I achieved the following:\\n1. Learn the foundation of C programming language",
           "video": "Videos/RoadmapC.mov"
         },
