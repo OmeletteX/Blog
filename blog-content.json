@@ -1,6 +1,27 @@
 {
   "posts": [
     {
+      "title": "Junipero",
+      "date": "13th November 2023",
+      "sections": [
+        {
+          "point": "Past 2 week's accomplishment",
+          "content": "I achieved the following:\\n1. Build my climate change website  \\n2. Started integrating animation using framer-motion \\n3. Integrated Python backend using flask"
+        },
+        {
+          "point": "Final project for my portfolio done!",
+          "content": "Junipero, I'm excited to share that my final portfolio website is now complete! This website focuses on climate change, a cause I am deeply passionate about. The development process was quite a challenge, as it involved integrating Python with React and incorporating additional features such as Framer Motion and EmailJS. This project marks a significant milestone for me, especially considering it's my first time working with the Python-React combination. I'm thrilled to showcase the end result, and I hope you enjoy exploring the website.",
+          "video": "Videos/JuniperoVid.mov"
+
+        },
+        {
+          "point": "Remaining things for my portfolio",
+          "content": "I've outlined the following tasks to complete before embarking on my job search:\\n\\nLearn Figma.\\nMaster Git.\\nStrengthen my blog website.\\nRevamp my LinkedIn profile.\\nUpload all my websites to a domain.\\nUpdate my resume."
+        }
+      ]
+    },
+
+    {
       "title": "3 projects in for my portfolio",
       "date": "4th November 2023",
       "sections": [
