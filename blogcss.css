@@ -1,14 +1,11 @@
-/*Reset*/
-
+/* Reset */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-
 /* Basic styling for the blog layout */
-
 
 /* Body styling */
 body {
@@ -63,4 +60,13 @@ footer {
   text-align: center;
   margin-top: 1.25rem;
   color: #888;
+}
+
+/* Mobile view */
+@media only screen and (max-width: 600px) {
+  /* Adjust styles for smaller screens */
+  .blog-post {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
 }
